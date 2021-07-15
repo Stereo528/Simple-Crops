@@ -31,7 +31,7 @@ class SimpleCrops : ModInitializer {
 
         log(Level.INFO, "Making Farming Better!")
         //Debug Text, will probably only include VERSION in production. Will be useful incase people report bugs on outdated builds, etc.
-        log(Level.INFO, "\n---------------\nMOD VERSION: $VERSION \nMOD ID: $MOD_ID \nMOD NAME: $MOD_NAME\n---------------")
+        log(Level.INFO, "MOD VERSION: $VERSION \nMOD ID: $MOD_ID \nMOD NAME: $MOD_NAME")
     }
 
     //Fancy Log Message
