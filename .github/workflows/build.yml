@@ -2,9 +2,9 @@ name: Gradle build
 
 on:
   push:
-    branches: [ master ]
+    branches: [ 1.17 ]
   pull_request:
-    branches: [ master ]
+    branches: [ 1.17 ]
 
 jobs:
   build:
