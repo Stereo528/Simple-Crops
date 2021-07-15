@@ -1,5 +1,5 @@
 # Simple Crops
-![Gradle build](https://github.com/Stereo528/Simple-Crops/workflows/Gradle%20build/badge.svg)
+[![Gradle Build](https://github.com/Stereo528/Simple-Crops/actions/workflows/build.yml/badge.svg)](https://github.com/Stereo528/Simple-Crops/actions/workflows/build.yml)
 
 ## About
 Fun little mod to learn Kotlin + add some crops and foods into the game.
