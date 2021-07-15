@@ -1,15 +1,14 @@
-# Fabric Example Mod - Kotlin
-![Gradle build](https://github.com/natanfudge/fabric-example-mod-kotlin/workflows/Gradle%20build/badge.svg)
+# Simple Crops
+![Gradle build](https://github.com/Stereo528/Simple-Crops/workflows/Gradle%20build/badge.svg)
+
+## About
+Fun little mod to learn Kotlin + add some crops and foods into the game.
+
 ## Setup
 
-0. Create a new mod repository by pressing the "Use this template" button and clone the created repository.
-
-1. Import build.gradle file with IntelliJ IDEA
-
-2. Edit build.gradle and mod.json to suit your needs.
-    * The "mixins" object can be removed from mod.json if you do not need to use mixins.
-    * Please replace all occurences of "modid" with your own mod ID - sometimes, a different string may also suffice.
-3. Run!
+1. Import Project into Intellij
+2. Wait for Gradle to Import
+3. Run the "Minecraft Client"
 
 ## License
 
